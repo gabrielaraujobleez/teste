@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'News-Icons';
-  src:  url('fonts/News-Icons.eot?7n8ps4');
-  src:  url('fonts/News-Icons.eot?7n8ps4#iefix') format('embedded-opentype'),
-    url('fonts/News-Icons.ttf?7n8ps4') format('truetype'),
-    url('fonts/News-Icons.woff?7n8ps4') format('woff'),
-    url('fonts/News-Icons.svg?7n8ps4#News-Icons') format('svg');
+  src:  url('News-Icons.eot?7n8ps4');
+  src:  url('News-Icons.eot?7n8ps4#iefix') format('embedded-opentype'),
+    url('News-Icons.ttf?7n8ps4') format('truetype'),
+    url('News-Icons.woff?7n8ps4') format('woff'),
+    url('News-Icons.svg?7n8ps4#News-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
